@@ -1,0 +1,33 @@
+# Secrets, tokens and credentials
+.env
+client_secret.json
+token.json
+proje_durumu.json
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/credentials.toml
+.streamlit/config.toml
+
+# Media, artifacts & large output files
+*.mp4
+*.m4a
+*.mp3
+*.wav
+*.pdf
+*.zip
+*.jpg
+*.jpeg
+*.png
+
+# Temporary and local files
+*.log
+.DS_Store
+Thumbs.db

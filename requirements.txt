@@ -1,0 +1,14 @@
+streamlit
+openai
+anthropic
+google-genai
+faster-whisper
+pymupdf
+pillow
+rapidocr-onnxruntime
+numpy
+json-repair
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+requests
